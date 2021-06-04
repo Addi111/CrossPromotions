@@ -1,7 +1,6 @@
-    "GamesData": [
-        {
-			"appVersion": "1.0",
-            "appName": "IndianWedding",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
-        },
-    ],
+
+{
+	"appVersion": "1.0",
+	"appName": "IndianWedding",
+	"appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
+}
