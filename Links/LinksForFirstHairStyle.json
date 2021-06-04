@@ -2,13 +2,13 @@
     "gamesData": [
         {
             "appVersion": "6",
-            "appName": "5",
-            "appLink": "4"
+            "appName": "IndianWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         },
         {
             "appVersion": "6",
-            "appName": "5",
-            "appLink": "4"
+            "appName": "WhiteWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.fashion.style.weddinggames"
         }
     ]
 }
