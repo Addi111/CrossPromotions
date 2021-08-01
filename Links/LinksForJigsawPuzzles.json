@@ -2,6 +2,16 @@
     "gamesData": [
 	    {
             "appVersion": "6",
+            "appName": "SuperFashionHairPaint",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
+        },
+	    {
+            "appVersion": "6",
+            "appName": "IndianDressUp",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
+        },
+	    {
+            "appVersion": "6",
             "appName": "IndianAndWhiteWedding",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.indianbride.beautymakeup.stylist.weddingsalon"
         },
