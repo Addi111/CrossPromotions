@@ -1,0 +1,49 @@
+{
+    "gamesData": [
+	    {
+            "appVersion": "6",
+            "appName": "IndianAndWhiteWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.indianbride.beautymakeup.stylist.weddingsalon"
+        },
+        {
+			"appVersion": "6",
+            "appName": "NailArt",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.nail.fashiongame.stylist.girlssalon3D"
+        },
+        {
+			"appVersion": "6",
+            "appName": "WhiteWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.fashion.style.weddinggames"      
+        },
+		{
+			"appVersion": "6",
+            "appName": "TopModel",
+            "appLink": "https://play.google.com/store/apps/details?id=com.supermodel.beautymakeup.fashiongame"  
+        },
+		{
+			"appVersion": "6",
+            "appName": "IceSlush",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.slushmaker.rainbowslushy.candyslushier"        
+        },
+		{
+			"appVersion": "6",
+            "appName": "MermaidCake",
+            "appLink": "https://play.google.com/store/apps/details?id=com.mermaid.cakegame.girlscooking.saloongame"         
+        },
+		{
+			"appVersion": "6",
+            "appName": "SecondHairStyle",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.dressup.supermodel.beautymakeup.fashiongame"         
+        },
+	    {
+	        "appVersion": "6",
+            "appName": "IndianWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
+        },
+		{
+			"appVersion": "6",
+            "appName": "FirstHairStyle",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.supermodel.beautymakeup.girls.hairsstyle.fashiongame"  
+        }
+    ]
+}
