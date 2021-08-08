@@ -2,6 +2,11 @@
     "gamesData": [
 		{
 			"appVersion": "5",
+            "appName": "AntiStress",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.popit.soap.cutting.antistress.reliefgame"
+        },
+		{
+			"appVersion": "5",
             "appName": "FashionDesignDressUp",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstuio.fashion.gamesforgirlsfree.dressupgames"
         },
