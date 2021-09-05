@@ -2,13 +2,18 @@
     "gamesData": [
 		{
 			"appVersion": "5",
-            "appName": "SuperFashionHairPaint",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
+            "appName": "TradingMaster",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.fidgettrading.antistress.calminggames"
         },
 		{
 			"appVersion": "5",
             "appName": "AntiStressTwo",
             "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.anti.stresstoys.realaxation"
+        },
+		{
+			"appVersion": "5",
+            "appName": "SuperFashionHairPaint",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
         },
 	    {
             "appVersion": "6",
