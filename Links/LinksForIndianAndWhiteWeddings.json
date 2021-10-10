@@ -1,9 +1,9 @@
 {
     "gamesData": [
 		{
-			"appVersion": "5",
-            "appName": "IndianDressUp",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
+		    "appVersion": "6",
+            "appName": "IndianWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         },
 		{
 			"appVersion": "5",
@@ -49,11 +49,6 @@
             "appVersion": "6",
             "appName": "IndianAndWhiteWedding",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.indianbride.beautymakeup.stylist.weddingsalon"
-        },
-		{
-		    "appVersion": "6",
-            "appName": "IndianWedding",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         }
     ]
 }
