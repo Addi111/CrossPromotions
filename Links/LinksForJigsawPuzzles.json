@@ -2,11 +2,6 @@
     "gamesData": [
 		{
 			"appVersion": "5",
-            "appName": "PuzzleWorld",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.puzzlequest.bandagames.blockpuzzlejewel"
-        },
-		{
-			"appVersion": "5",
             "appName": "AntiStressTwo",
             "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.anti.stresstoys.realaxation"
         },
@@ -24,6 +19,11 @@
             "appVersion": "6",
             "appName": "IndianDressUp",
             "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
+        },
+		{
+			"appVersion": "5",
+            "appName": "PuzzleWorld",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.puzzlequest.bandagames.blockpuzzlejewel"
         },
 	    {
             "appVersion": "6",
