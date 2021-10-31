@@ -2,8 +2,13 @@
     "gamesData": [
 		{
 			"appVersion": "5",
-            "appName": "SuperFashionHairPaint",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
+            "appName": "AntiStressTwo",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.anti.stresstoys.realaxation"
+        },
+		{
+			"appVersion": "5",
+            "appName": "PuzzleWorld",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.puzzlequest.bandagames.blockpuzzlejewel"
         },
 		{
 			"appVersion": "5",
@@ -12,22 +17,23 @@
         },
 		{
 			"appVersion": "5",
-            "appName": "AntiStressTwo",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.anti.stresstoys.realaxation"
+            "appName": "SuperFashionHairPaint",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
         },
+		{
 			"appVersion": "5",
-            "appName": "FashionDesignDressUp",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstuio.fashion.gamesforgirlsfree.dressupgames"
+            "appName": "TradingMaster",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.fidgettrading.antistress.calminggames"
         },
 	    {
-            "appVersion": "6",
-            "appName": "IndianAndWhiteWedding",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.indianbride.beautymakeup.stylist.weddingsalon"
+			"appVersion": "5",
+            "appName": "NailArt",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.nail.fashiongame.stylist.girlssalon3D"
         },
         {
 			"appVersion": "6",
-            "appName": "NailArt",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.nail.fashiongame.stylist.girlssalon3D"
+            "appName": "FirstHairStyle",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.supermodel.beautymakeup.girls.hairsstyle.fashiongame"
         },
         {
 			"appVersion": "6",
@@ -55,14 +61,14 @@
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.dressup.supermodel.beautymakeup.fashiongame"         
         },
 	    {
-	        "appVersion": "6",
-            "appName": "IndianWedding",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
+            "appVersion": "6",
+            "appName": "IndianAndWhiteWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.indianbride.beautymakeup.stylist.weddingsalon"
         },
 		{
-			"appVersion": "6",
-            "appName": "FirstHairStyle",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.supermodel.beautymakeup.girls.hairsstyle.fashiongame"  
+		    "appVersion": "6",
+            "appName": "IndianWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         }
     ]
 }
