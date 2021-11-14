@@ -7,16 +7,16 @@
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstuio.fashion.gamesforgirlsfree.dressupgames"
         },
 		{
+	        "appVersion": "6",
+            "appName": "IndianWedding",
+						"canShow": true,
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
+        },
+		{
 			"appVersion": "5",
             "appName": "AntiStress",
 				"canShow": true,
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.popit.soap.cutting.antistress.reliefgame"
-        },
-		{
-	        "appVersion": "6",
-            "appName": "IndianWedding",
-						"canShow": false,
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         },
 		{
 			"appVersion": "5",
