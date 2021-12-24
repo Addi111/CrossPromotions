@@ -2,8 +2,8 @@
     "gamesData": [
 		{
 			"appVersion": "5",
-            "appName": "TieDye",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.tiedye.shirtgames"
+            "appName": "IndianDressUp",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
         },
 		{
 	        "appVersion": "6",
@@ -14,11 +14,6 @@
 			"appVersion": "5",
             "appName": "FashionDesignDressUp",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstuio.fashion.gamesforgirlsfree.dressupgames"
-        },
-		{
-			"appVersion": "5",
-            "appName": "IndianDressUp",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
         },
 		{
             "appVersion": "6",
