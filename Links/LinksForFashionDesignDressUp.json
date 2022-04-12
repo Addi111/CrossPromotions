@@ -1,6 +1,16 @@
 {
     "gamesData": [
 		{
+			"appVersion": "5",
+            "appName": "ChibiDolls",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.chibidoll.makercreatedoll.games"
+        },
+		{
+			"appVersion": "5",
+            "appName": "TieDye",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.tiedye.shirtgames"
+        },
+		{
 	        "appVersion": "6",
             "appName": "CollegeGirlsFantasy",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.girlsfashion.stylist.collegedressup_Makeover"
@@ -9,11 +19,6 @@
 	        "appVersion": "6",
             "appName": "EyeMakeup",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.fashionshow.eyemakeup.games"
-        },
-		{
-	        "appVersion": "6",
-            "appName": "TieDye",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.tiedye.shirtgames"
         },
 		{
 	        "appVersion": "6",
