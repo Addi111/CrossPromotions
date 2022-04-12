@@ -1,14 +1,19 @@
 {
     "gamesData": [
 		{
-	        "appVersion": "6",
-            "appName": "CollegeGirlsFantasy",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.girlsfashion.stylist.collegedressup_Makeover"
+			"appVersion": "5",
+            "appName": "ChibiDolls",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.chibidoll.makercreatedoll.games"
         },
-				{
+		{
 			"appVersion": "5",
             "appName": "TieDye",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.tiedye.shirtgames"
+        },
+		{
+	        "appVersion": "6",
+            "appName": "CollegeGirlsFantasy",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.girlsfashion.stylist.collegedressup_Makeover"
         },
 		{
 	        "appVersion": "6",
@@ -24,11 +29,6 @@
 			"appVersion": "5",
             "appName": "FashionDesignDressUp",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstuio.fashion.gamesforgirlsfree.dressupgames"
-        },
-		{
-			"appVersion": "5",
-            "appName": "IndianDressUp",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
         },
 		{
             "appVersion": "6",
@@ -57,11 +57,6 @@
         },
 		{
 			"appVersion": "6",
-            "appName": "IceSlush",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.slushmaker.rainbowslushy.candyslushier"        
-        },
-		{
-			"appVersion": "6",
             "appName": "MermaidCake",
             "appLink": "https://play.google.com/store/apps/details?id=com.mermaid.cakegame.girlscooking.saloongame"         
         },
@@ -69,11 +64,6 @@
 			"appVersion": "6",
             "appName": "SecondHairStyle",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.dressup.supermodel.beautymakeup.fashiongame"         
-        },
-		{
-		    "appVersion": "6",
-            "appName": "IndianWedding",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         }
     ]
 }
