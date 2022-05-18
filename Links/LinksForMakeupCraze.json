@@ -1,0 +1,19 @@
+{
+    "gamesData": [
+		{
+			"appVersion": "6",
+            "appName": "SpaSalon",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.spasalondressup.makeupgames"
+        },
+		{
+			"appVersion": "5",
+            "appName": "IndianBride",
+            "appLink": "https://play.google.com/store/apps/details?id=com.ssg.indianbride.makeup.dressup.games"
+        },
+		{
+			"appVersion": "5",
+            "appName": "MakeupCraze",
+            "appLink": "https://play.google.com/store/apps/details?id=com.ssg.fashion.dressupmakeupcraze.games"
+        }
+    ]
+}
