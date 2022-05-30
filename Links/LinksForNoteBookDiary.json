@@ -1,0 +1,34 @@
+{
+    "gamesData": [
+		{
+			"appVersion": "5",
+            "appName": "PrincessMakeOver",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.princess.makeover.dressup.game"
+        },
+		{
+			"appVersion": "5",
+            "appName": "PhoneDye",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlgames.tie.dye.art.phonecasediy"
+        },
+		{
+			"appVersion": "5",
+            "appName": "PizzaMaker",
+            "appLink": "https://play.google.com/store/apps/details?id=com.pizzamakinggames.cookingkitchen.restaurantkitchen"
+        },
+		{
+			"appVersion": "5",
+            "appName": "SuperFashionHairPaint",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
+        },
+		{
+            "appVersion": "6",
+            "appName": "IndianDressUp",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
+        },
+	    {
+            "appVersion": "6",
+            "appName": "IndianAndWhiteWedding",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.indianbride.beautymakeup.stylist.weddingsalon"
+        }
+    ]
+}
