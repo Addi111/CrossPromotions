@@ -1,6 +1,16 @@
 {
     "gamesData": [
 		{
+			"appVersion": "6",
+            "appName": "FashionShowCompetition",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.topmodel.fashionshow.games"         
+        },
+		{
+			"appVersion": "6",
+            "appName": "MakeupGirlDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.makeupgamegirldressup.games"         
+        },
+		{
 			"appVersion": "5",
             "appName": "ChibiDolls",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.chibidoll.makercreatedoll.games"
@@ -54,11 +64,6 @@
 			"appVersion": "6",
             "appName": "WhiteWedding",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.fashion.style.weddinggames"      
-        },
-		{
-			"appVersion": "6",
-            "appName": "MermaidCake",
-            "appLink": "https://play.google.com/store/apps/details?id=com.mermaid.cakegame.girlscooking.saloongame"         
         },
 		{
 			"appVersion": "6",
