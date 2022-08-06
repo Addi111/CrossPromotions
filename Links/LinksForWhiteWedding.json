@@ -37,8 +37,9 @@
         }
     ],
 	"adsData": {
+		"quitGame": false,
         "setAdIds": false,
-        "AdmobAppId": "ca-app-pub-3940256099942544~3347511888",
+        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
         "AdmobBannerId": "ca-app-pub-3940256099942544/6300978111",
         "AdmobInterstitialID": "ca-app-pub-3940256099942544/1033173712",
         "AdmobRVId": "ca-app-pub-3940256099942544/5224354917",
