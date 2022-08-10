@@ -1,11 +1,6 @@
 {
     "gamesData": [
 		{
-			"appVersion": "5",
-            "appName": "IndianDressUp",
-            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.wedding.fashiongames.designer.stylist"
-        },
-		{
 	        "appVersion": "6",
             "appName": "LongNeckWedding",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.beautysalon.fashion.makeupartist.designer.stylist"
@@ -60,5 +55,15 @@
             "appName": "IndianWedding",
             "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames"
         }
-    ]
+    ],
+		"adsData": {
+		"quitGame": false,
+        "setAdIds": true,
+        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+        "AdmobBannerId": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInterstitialID": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobRVId": "ca-app-pub-3940256099942544/5224354917",
+        "AdmobNativeId": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobAppOpenId": "ca-app-pub-3940256099942544/3419835294"
+    }
 }
