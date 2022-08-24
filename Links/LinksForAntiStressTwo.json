@@ -1,0 +1,44 @@
+{
+    "gamesData": [
+		{
+			"appVersion": "5",
+            "appName": "PrincessMakeOver",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.princess.makeover.dressup.game"
+        },
+		{
+			"appVersion": "5",
+            "appName": "PhoneDye",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlgames.tie.dye.art.phonecasediy"
+        },
+		{
+			"appVersion": "5",
+            "appName": "DressUp",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylist.girl.games.fashiongame.dressup.gamesforgirls"
+        },
+		{
+			"appVersion": "5",
+            "appName": "SuperFashionHairPaint",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.diy.makeup.gamesforgirlsfree.jump.makeoverstudio"
+        },
+		{
+	        "appVersion": "6",
+            "appName": "AntiStressTwo",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.anti.stresstoys.realaxation"
+        },
+		{
+			"appVersion": "5",
+            "appName": "TradingMaster",
+            "appLink": "https://play.google.com/store/apps/details?id=com.stylistgirlsfashiongames.fidgettrading.antistress.calminggames"
+        }
+    ],
+			"adsData": {
+		"quitGame": false,
+        "setAdIds": false,
+        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+        "AdmobBannerId": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInterstitialID": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobRVId": "ca-app-pub-3940256099942544/5224354917",
+        "AdmobNativeId": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobAppOpenId": "ca-app-pub-3940256099942544/3419835294"
+    }
+}
