@@ -1,0 +1,35 @@
+{
+	"showAds": true,
+    "gamesData": [
+		{
+			"appVersion": "5",
+            "appName": "FacialSpaSalon",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.facial.spa.salon.makeover"
+        },
+		{
+	        "appVersion": "6",
+            "appName": "FashionHairSalon",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.fashion.hairsalon.spasalon"
+        },
+	    {
+            "appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"
+        },
+        {
+			"appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"
+        },
+        {
+			"appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"    
+        },
+		{
+			"appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games" 
+        }
+    ]
+}
