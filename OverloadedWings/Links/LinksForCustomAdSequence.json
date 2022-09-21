@@ -1,35 +1,39 @@
 {
-	"showAds": true,
+    "adsData": {
+        "bannerAdSequence": 9,
+        "interstitialAdSequence": 9,
+        "rewardedAdSequence": 9
+    },
     "gamesData": [
-		{
-			"appVersion": "6",
-            "appName": "SummerFashionDressup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.summer.fashion.dressup.game"
-        },
-		{
-			"appVersion": "5",
-            "appName": "FacialSpaSalon",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.facial.spa.salon.makeover"
-        },
-		{
-	        "appVersion": "6",
-            "appName": "FashionHairSalon",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.fashion.hairsalon.spasalon"
-        },
-	    {
-            "appVersion": "6",
-            "appName": "WeddingBridesDressup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"
+        {
+            "appVersion": "1",
+            "appName": "",
+            "appLink": "http_1"
         },
         {
-			"appVersion": "6",
-            "appName": "WeddingBridesDressup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"    
+            "appVersion": "2",
+            "appName": "",
+            "appLink": "http_2"
         },
-		{
-			"appVersion": "6",
-            "appName": "WeddingBridesDressup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games" 
+        {
+            "appVersion": "3",
+            "appName": "",
+            "appLink": "http_3"
+        },
+        {
+            "appVersion": "4",
+            "appName": "",
+            "appLink": "http_4"
+        },
+        {
+            "appVersion": "5",
+            "appName": "",
+            "appLink": "http_5"
+        },
+        {
+            "appVersion": "6",
+            "appName": "",
+            "appLink": "http_6"
         }
     ]
 }
