@@ -1,5 +1,6 @@
 {
     "adsData": {
+		"canShowUnityBanner": false,
         "bannerAdSequence": "Applovin_Admob",
         "interstitialAdSequence": "Applovin_Admob",
         "rewardedAdSequence": "Applovin_Admob"
