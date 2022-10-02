@@ -1,9 +1,12 @@
 {
     "adsData": {
+		"canShowCP": true,
+		"canShowNativeAd": true,
+		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Admob_Unity",
-        "interstitialAdSequence": "Admob_Unity",
-        "rewardedAdSequence": "Admob_Unity"
+        "bannerAdSequence": "Admob_Applovin",
+        "interstitialAdSequence": "Admob_Applovin_Unity",
+        "rewardedAdSequence": "Admob_Applovin_Unity"
     },
     "gamesData": [
 		{
