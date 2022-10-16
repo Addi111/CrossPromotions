@@ -15,14 +15,14 @@
             "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.summer.fashion.dressup.game"
         },
 		{
+            "appVersion": "6",
+            "appName": "SuperFashionStylist",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.superfashion.stylish.dressup"
+        },
+		{
 			"appVersion": "6",
             "appName": "TileMatchingPuzzle",
             "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.tile.match3d.matching.puzzle"
-        },
-	    {
-            "appVersion": "6",
-            "appName": "WeddingBridesDressup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"
         },
 		{
 			"appVersion": "5",
