@@ -1,0 +1,48 @@
+{
+	    "adsData": {
+		"canShowCP": true,
+		"canShowNativeAd": false,
+		"canShowAppOpenAd": false,
+		"canShowUnityBanner": false,
+        "bannerAdSequence": "Admob",
+        "interstitialAdSequence": "Admob_Unity",
+        "rewardedAdSequence": "Admob_Unity"
+    },
+    "gamesData": [
+		{
+			"appVersion": "6",
+            "appName": "SummerFashionDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.summer.fashion.dressup.game"
+        },
+		{
+            "appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"
+        },
+		{
+			"appVersion": "6",
+            "appName": "TileMatchingPuzzle",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.tile.match3d.matching.puzzle"
+        },
+		{
+			"appVersion": "5",
+            "appName": "FacialSpaSalon",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.facial.spa.salon.makeover"
+        },
+		{
+	        "appVersion": "6",
+            "appName": "FashionHairSalon",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.fashion.hairsalon.spasalon"
+        },
+        {
+			"appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games"    
+        },
+		{
+			"appVersion": "6",
+            "appName": "WeddingBridesDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.weddingbride.games" 
+        }
+    ]
+}
