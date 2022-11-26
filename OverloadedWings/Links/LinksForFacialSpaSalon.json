@@ -1,7 +1,7 @@
 {
 		"adsData": {
 		"canShowCP": true,
-		"canShowNativeAd": true,
+		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
         "bannerAdSequence": "Applovin",
