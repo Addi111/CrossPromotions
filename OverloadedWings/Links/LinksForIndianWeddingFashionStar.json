@@ -4,7 +4,7 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Applovin",
+        "bannerAdSequence": "Admob_Applovin",
         "interstitialAdSequence": "Admob_Applovin_Unity",
         "rewardedAdSequence": "Admob_Applovin_Unity"
     },
@@ -16,8 +16,8 @@
         },
 		{
 			"appVersion": "6",
-            "appName": "SummerFashionDressup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.summer.fashion.dressup.game"
+            "appName": "FashionPrincess",
+            "appLink": "https://play.google.com/store/apps/details?id=com.overloadedwings.fashion.princess.dressup.games"
         },
 		{
             "appVersion": "6",
