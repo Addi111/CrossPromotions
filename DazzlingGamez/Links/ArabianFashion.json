@@ -1,0 +1,28 @@
+{
+	    "adsData": {
+		"canShowCP": false,
+		"canShowNativeAd": false,
+		"canShowAppOpenAd": true,
+		"canShowUnityBanner": false,
+        "bannerAdSequence": "Admob",
+        "interstitialAdSequence": "Admob_Applovin_Unity",
+        "rewardedAdSequence": "Admob_Applovin_Unity"
+    },
+    "gamesData": [
+		{
+			"appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        },
+		{
+			"appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        },
+		{
+            "appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        }
+    ]
+}
